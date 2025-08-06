@@ -3,6 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motherofprogrammers&label=Profile%20views&color=0e75b6&style=flat" alt="motherofprogrammers" /> </p>
 
+---
+<h3 align="left">⚡ Fun facts about me</h3>
+<ul>
+  <li>🔥 Crafting code so flawless and efficient, even bugs admire my work from afar.</li>
+  <li>🚀 Passionate about AI and machine learning.</li>
+  <li>🎮 Gamer & tech enthusiast.</li>
+  <li>🌍 Open source contributor & mentor.</li>
+</ul>
+
 - 💬 Ask me about **Python,C++,C,...**
 
 ---
