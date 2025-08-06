@@ -5,7 +5,13 @@
 
 - 💬 Ask me about **Python,C++,C,...**
 
+---
+
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:rasanjanatharusha58@gmail.com">📧 Via Email</a> |<br/>
+  <a href="https://linkedin.com/in/tharusha-rasanjana-b7420a281">💼 Via LinkedIn</a> |
+</p>
 <p align="left">
 </p>
 
